@@ -2,3 +2,6 @@ pyMCU - python controlled microcontroller firmware for Arduino and Arudino compa
 
 Written for the Arduino IDE
 
+Based off of pyMCU for Pic
+http://www.pymcu.com
+
